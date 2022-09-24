@@ -2,7 +2,7 @@ import Sidebar from "./components/sidebar/Sidebar";
 import Topbar from "./components/topbar/Topbar";
 import "./App.css";
 import Home from "./pages/home/Home";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import UserList from "./pages/userList/UserList";
 import User from "./pages/user/User";
 import NewUser from "./pages/newUser/NewUser";
@@ -13,7 +13,7 @@ import TransactionHistry from "./pages/transactionsHistory/TransactionsHistory"
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <Topbar />
       <div className="container">
         <Sidebar />
@@ -44,7 +44,7 @@ function App() {
           </Route>
         </Switch>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
