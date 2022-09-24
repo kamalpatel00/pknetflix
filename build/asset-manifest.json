@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pknetflix/static/css/main.750a37fc.chunk.css",
-    "main.js": "/pknetflix/static/js/main.c5cc40fd.chunk.js",
-    "main.js.map": "/pknetflix/static/js/main.c5cc40fd.chunk.js.map",
+    "main.js": "/pknetflix/static/js/main.9ed7cda8.chunk.js",
+    "main.js.map": "/pknetflix/static/js/main.9ed7cda8.chunk.js.map",
     "runtime-main.js": "/pknetflix/static/js/runtime-main.b4b2fc8f.js",
     "runtime-main.js.map": "/pknetflix/static/js/runtime-main.b4b2fc8f.js.map",
     "static/js/2.fd07e1a1.chunk.js": "/pknetflix/static/js/2.fd07e1a1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b4b2fc8f.js",
     "static/js/2.fd07e1a1.chunk.js",
     "static/css/main.750a37fc.chunk.css",
-    "static/js/main.c5cc40fd.chunk.js"
+    "static/js/main.9ed7cda8.chunk.js"
   ]
 }
