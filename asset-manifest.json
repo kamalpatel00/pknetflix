@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pknetflix.github.io/static/css/main.750a37fc.chunk.css",
-    "main.js": "/pknetflix.github.io/static/js/main.c5cc40fd.chunk.js",
-    "main.js.map": "/pknetflix.github.io/static/js/main.c5cc40fd.chunk.js.map",
-    "runtime-main.js": "/pknetflix.github.io/static/js/runtime-main.d9dd6f1a.js",
-    "runtime-main.js.map": "/pknetflix.github.io/static/js/runtime-main.d9dd6f1a.js.map",
-    "static/js/2.363a71d5.chunk.js": "/pknetflix.github.io/static/js/2.363a71d5.chunk.js",
-    "static/js/2.363a71d5.chunk.js.map": "/pknetflix.github.io/static/js/2.363a71d5.chunk.js.map",
-    "index.html": "/pknetflix.github.io/index.html",
-    "static/css/main.750a37fc.chunk.css.map": "/pknetflix.github.io/static/css/main.750a37fc.chunk.css.map",
-    "static/js/2.363a71d5.chunk.js.LICENSE.txt": "/pknetflix.github.io/static/js/2.363a71d5.chunk.js.LICENSE.txt"
+    "main.css": "/pknetflix/static/css/main.750a37fc.chunk.css",
+    "main.js": "/pknetflix/static/js/main.9ed7cda8.chunk.js",
+    "main.js.map": "/pknetflix/static/js/main.9ed7cda8.chunk.js.map",
+    "runtime-main.js": "/pknetflix/static/js/runtime-main.b4b2fc8f.js",
+    "runtime-main.js.map": "/pknetflix/static/js/runtime-main.b4b2fc8f.js.map",
+    "static/js/2.fd07e1a1.chunk.js": "/pknetflix/static/js/2.fd07e1a1.chunk.js",
+    "static/js/2.fd07e1a1.chunk.js.map": "/pknetflix/static/js/2.fd07e1a1.chunk.js.map",
+    "index.html": "/pknetflix/index.html",
+    "static/css/main.750a37fc.chunk.css.map": "/pknetflix/static/css/main.750a37fc.chunk.css.map",
+    "static/js/2.fd07e1a1.chunk.js.LICENSE.txt": "/pknetflix/static/js/2.fd07e1a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9dd6f1a.js",
-    "static/js/2.363a71d5.chunk.js",
+    "static/js/runtime-main.b4b2fc8f.js",
+    "static/js/2.fd07e1a1.chunk.js",
     "static/css/main.750a37fc.chunk.css",
-    "static/js/main.c5cc40fd.chunk.js"
+    "static/js/main.9ed7cda8.chunk.js"
   ]
 }
